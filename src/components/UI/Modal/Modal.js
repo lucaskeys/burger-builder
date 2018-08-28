@@ -7,5 +7,4 @@ const modal = (props) => (
   </div>
 );
 
-export default Modal;
- 
+export default modal;

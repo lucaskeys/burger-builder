@@ -8,3 +8,4 @@ const modal = (props) => (
 );
 
 export default Modal;
+ 

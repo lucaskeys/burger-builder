@@ -1,14 +1,14 @@
 import React from 'react';
-
-const toolbar = (props) => {
-  <header>
+import classes from './Toolbar.css'
+const toolbar = (props) => (
+  <header className={classes.Toolbar}>
     <div>Menu</div>
     <div>Logo</div>
     <nav>
       <ul></ul>
     </nav>
   </header>
-}
+)
 
 
-export defautl toolbar;
+export default toolbar;

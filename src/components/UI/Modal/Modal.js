@@ -29,6 +29,5 @@ class Modal extends Component {
       </Aux>
     )
   }
-);
 
 export default Modal;
